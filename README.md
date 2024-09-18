@@ -1,4 +1,4 @@
-# Wallpaper-on-Mac
+# Wallpaper-on-Mac (only 'scene' and 'video')
 1. 从Wallpaper Engine 选择video/sence种类壁纸导出
 
 2. video类型不做更改
